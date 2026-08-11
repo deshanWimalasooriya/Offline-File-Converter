@@ -1,0 +1,16 @@
+# Virtual Environment
+venv/
+env/
+
+# PyInstaller / Build Artifacts
+build/
+dist/
+*.spec
+
+# Python Byte-compiled / Optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Mac OS X
+.DS_Store
